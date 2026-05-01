@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="/usr/lib/jvm/jre1.6.0_17" version="1.6.0_17">
+        <bootpath>
+            <entry path="/usr/lib/jvm/jre1.6.0_17/lib/resources.jar"/>
+            <entry path="/usr/lib/jvm/jre1.6.0_17/lib/rt.jar"/>
+            <entry path="/usr/lib/jvm/jre1.6.0_17/lib/sunrsasign.jar"/>
+            <entry path="/usr/lib/jvm/jre1.6.0_17/lib/jsse.jar"/>
+            <entry path="/usr/lib/jvm/jre1.6.0_17/lib/jce.jar"/>
+            <entry path="/usr/lib/jvm/jre1.6.0_17/lib/charsets.jar"/>
+            <entry path="/usr/lib/jvm/jre1.6.0_17/classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="/usr/lib/jvm/jre1.6.0_17/lib/ext"/>
+            <entry path="/usr/java/packages/lib/ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="/usr/lib/jvm/jre1.6.0_17/lib/endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="/usr/lib/jvm/java-21-openjdk-amd64" version="21.0.10"/>
+</libraryInfos>
